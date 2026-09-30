@@ -6,8 +6,8 @@ A responsive, production-grade Admin Dashboard built with Next.js App Router, Ty
 
 ## Live Demo & Repository
 
-- **Repository**: [GitHub Link](https://github.com/your-username/adminhub-dashboard)
-- **Live Demo**: [Vercel Deployment Link](https://adminhub-dashboard.vercel.app)
+- **Repository**: [GitHub Link](https://github.com/emdhruu/adminhub-dashboard)
+- **Live Demo**: [Vercel Deployment Link](https://adminhub-dashboard.vercel.app/dashboard)
 
 ---
 
@@ -28,7 +28,7 @@ A responsive, production-grade Admin Dashboard built with Next.js App Router, Ty
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/adminhub-dashboard.git](https://github.com/your-username/adminhub-dashboard.git)
+   git clone [https://github.com/emdhruu/adminhub-dashboard](https://github.com/emdhruu/adminhub-dashboard)
    cd adminhub-dashboard
 
 2. **Install dependencies:**
