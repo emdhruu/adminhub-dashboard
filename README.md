@@ -29,10 +29,12 @@ A responsive, production-grade Admin Dashboard built with Next.js App Router, Ty
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/adminhub-dashboard.git](https://github.com/your-username/adminhub-dashboard.git)
-   cd adminhub-dashboard```
+   cd adminhub-dashboard
 
 2. **Install dependencies:**
-    ```npm install```
+    ```bash 
+    npm install
 
 3. **Run the development server:**
-    ```npm run dev```
+    ```bash 
+    npm run dev
